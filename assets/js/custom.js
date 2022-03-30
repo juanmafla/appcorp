@@ -271,7 +271,7 @@
         
     // AJAX MailChimp
     $("#mc-form").ajaxChimp({
-        url: "https://envyTheme.us20.list-manage.com/subscribe/post?u=60e1ffe2e8a68ce1204cd39a5&amp;id=42d6d188d9", // Your url MailChimp
+        url: "https://appcorp.us14.list-manage.com/subscribe/post?u=50898dbf7b3301808576b992d&id=ea85b90d32", // Your url MailChimp
         callback: callbackFunction
     });
 
